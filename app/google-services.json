@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "709344860018",
+    "project_id": "login-signup-with-fireba-6dba4",
+    "storage_bucket": "login-signup-with-fireba-6dba4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709344860018:android:3837d6fd33f3116f1bafeb",
+        "android_client_info": {
+          "package_name": "com.example.loginandsignupwithfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO_cQ6aOHOt_iTgjbstRsg_gklvN1TGFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
